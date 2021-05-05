@@ -109,6 +109,7 @@ const PlayButton = styled.button`
   margin-right: 22px;
   letter-spacing: 1.8px;
   cursor: pointer;
+  transition: 250ms;
   &:hover {
     background: rgb(198, 198, 198);
   }
